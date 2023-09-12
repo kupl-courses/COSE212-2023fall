@@ -1,6 +1,6 @@
 {
     "name": "cose212-2023fall",
-    "image": "ghcr.io/sambyeol/ocaml-devcontainer",
+    "image": "ghcr.io/sambyeol/ocaml-devcontainer:4.14.1",
     "customizations": {
         "vscode": {
             "extensions": [
